@@ -2,7 +2,7 @@
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://Gilga.github.io/TestPkg.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://Gilga.github.io/TestPkg.jl/dev)
-[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://Gilga.gitlab.io/TestPkg.jl/dev)
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://Gilgatx.gitlab.io/TestPkg.jl/dev)
 [![Build Status](https://travis-ci.com/Gilga/TestPkg.jl.svg?branch=master)](https://travis-ci.com/Gilga/TestPkg.jl)
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/Gilga/TestPkg.jl?svg=true)](https://ci.appveyor.com/project/Gilga/TestPkg-jl)
 [![Build Status](https://gitlab.com/Gilgatx/TestPkg.jl/badges/master/pipeline.svg)](https://gitlab.com/Gilgatx/TestPkg.jl/pipelines)
